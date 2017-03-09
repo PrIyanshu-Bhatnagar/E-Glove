@@ -18,4 +18,4 @@ To implement keyboard operations, logic 1 and logic 0 is required for key press 
 
 We implement the flow and control of analog and digital data bits using the Arduino micro-controller. The micro-controller can sense and control objects in the physical world.
 
-![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt tag](https://github.com/PrIyanshu-Bhatnagar/E-Glove/blob/master/16244637_1511551872197089_364827011_o.jpg)
